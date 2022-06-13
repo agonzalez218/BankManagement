@@ -1,0 +1,3 @@
+username,password,account_name,account_type,account_number,balance
+kiwijuice,siKe,Abel Gonzalez,Checking,9875432,1400
+admin,admin,admin,sudo,000000,0
