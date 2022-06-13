@@ -1,4 +1,4 @@
-# BankManagement
+# BankManagement | Created: April 2021
 An application I played a large role in developing. It includes a login form with an account database with user information and account balance. Transactions similar to a bank are made possible and affect the user information and account balance as necessary.
 
 The BankMangement System was created in Java. When the application is opened, the user must sign in to access the rest of the appliction. Upon login or creation of an account, the user is shown the Main Menu. They can do a variety of transfers, deposit money, and withdraw money. This affects their balance as well as balances in the internal database. The following images are interfaces that are used in the application.
